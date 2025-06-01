@@ -16,7 +16,7 @@ Min Products is a full-stack web application built with the MERN stack (MongoDB,
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:AihamJassar/min-products-project.git
     cd min-products-project
     ```
 
