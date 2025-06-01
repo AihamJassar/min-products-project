@@ -1,0 +1,3 @@
+* if nodemon installed globally use npm nodemon and if installed locally use npx nodemon
+* CommonsJS => Back-end, ES Modules => Front-end
+rafce to complete react component
